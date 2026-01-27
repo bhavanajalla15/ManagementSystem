@@ -5,5 +5,3 @@ def main():
     
 if __name__=='__main__':
     main()
-print("bhavana")
-print("aishwarya")
